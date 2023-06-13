@@ -171,7 +171,7 @@ const workExperiences = {
     {
       role: "Software Engineer Intern",
       company: "Electronic Arts",
-      companylogo: require("./assets/images/eaLogo.png"),
+      companylogo: require("./assets/images/eaLogo.jpg"),
       date: "Jan 2015 – Sep 2015",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
