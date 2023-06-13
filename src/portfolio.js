@@ -114,10 +114,10 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Lake Washington Institute of Technology",
-      logo: require("./assets/images/harvardLogo.png"),
+      logo: require("./assets/images/lwtechLogo.png"),
       subHeader: "Bachelors of Applied Science in Computer Science",
       duration: "June 2018 - June 2021",
-      desc: "40 GPA.",
+      desc: "4.0 GPA",
       descBullets: [
       ]
     },
@@ -153,7 +153,7 @@ const workExperiences = {
     {
       role: "Software Engineer",
       company: "Axon",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      companylogo: require("./assets/images/axonLogo.png"),
       date: "June 2018 – Present",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
@@ -164,14 +164,14 @@ const workExperiences = {
     {
       role: "Software Engineer Intern",
       company: "Stockcharts",
-      companylogo: require("./assets/images/airbnbLogo.png"),
+      companylogo: require("./assets/images/stockchartsLogo.png"),
       date: "Jan 2015 – Sep 2015",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
       role: "Software Engineer Intern",
       company: "Electronic Arts",
-      companylogo: require("./assets/images/airbnbLogo.png"),
+      companylogo: require("./assets/images/eaLogo.png"),
       date: "Jan 2015 – Sep 2015",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
