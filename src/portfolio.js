@@ -189,7 +189,7 @@ const openSource = {
 
 const bigProjects = {
   title: "Major Projects",
-  subtitle: "Click a project to see details",
+  subtitle: "Click to see details",
   projects: [
     {
       image: require("./assets/images/pickerbot.jpg"),
