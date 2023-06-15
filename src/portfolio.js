@@ -201,7 +201,7 @@ const bigProjects = {
       image: require("./assets/images/pocketPirateSplash.png"),
       projectName: "Pocket Pirate",
       projectDesc: "Unreleased naval combat mobile game",
-      link: "https://github.com/LazyGuyWithRSI",
+      link: "https://github.com/LazyGuyWithRSI/PocketPirate",
     },
     {
       image: require("./assets/images/pirate.png"),
